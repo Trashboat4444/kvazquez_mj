@@ -9,9 +9,9 @@ namespace Ejemplo1
             int myVariable = 10;
             const int myConstant = 20;
 
-            Console.WriteLine("Valor de mi variable: ",myVariable)
+            Console.WriteLine("Valor de mi variable: "+ myVariable);
 
-            Console.WriteLine("Valor de mi constante: ",myConstant)
+            Console.WriteLine("Valor de mi constante: "+ myConstant);
         }
     }
 }
