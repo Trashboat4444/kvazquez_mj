@@ -1,8 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception 
     {
-        public class main {
-            public static void main(String[] args) {
                 int myVariable = 10;
                 final int myConstant = 20;
 
@@ -11,5 +9,5 @@ public class App {
 
             }
         }
-    }
-}
+    
+
