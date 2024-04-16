@@ -1,0 +1,15 @@
+C:\Users\kgvaz\Desktop\COMP2315\Laboratorio C#\ProblemaWhile\bin\Debug\net8.0\ProblemaWhile.exe
+C:\Users\kgvaz\Desktop\COMP2315\Laboratorio C#\ProblemaWhile\bin\Debug\net8.0\ProblemaWhile.deps.json
+C:\Users\kgvaz\Desktop\COMP2315\Laboratorio C#\ProblemaWhile\bin\Debug\net8.0\ProblemaWhile.runtimeconfig.json
+C:\Users\kgvaz\Desktop\COMP2315\Laboratorio C#\ProblemaWhile\bin\Debug\net8.0\ProblemaWhile.dll
+C:\Users\kgvaz\Desktop\COMP2315\Laboratorio C#\ProblemaWhile\bin\Debug\net8.0\ProblemaWhile.pdb
+C:\Users\kgvaz\Desktop\COMP2315\Laboratorio C#\ProblemaWhile\obj\Debug\net8.0\ProblemaWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgvaz\Desktop\COMP2315\Laboratorio C#\ProblemaWhile\obj\Debug\net8.0\ProblemaWhile.AssemblyInfoInputs.cache
+C:\Users\kgvaz\Desktop\COMP2315\Laboratorio C#\ProblemaWhile\obj\Debug\net8.0\ProblemaWhile.AssemblyInfo.cs
+C:\Users\kgvaz\Desktop\COMP2315\Laboratorio C#\ProblemaWhile\obj\Debug\net8.0\ProblemaWhile.csproj.CoreCompileInputs.cache
+C:\Users\kgvaz\Desktop\COMP2315\Laboratorio C#\ProblemaWhile\obj\Debug\net8.0\ProblemaWhile.sourcelink.json
+C:\Users\kgvaz\Desktop\COMP2315\Laboratorio C#\ProblemaWhile\obj\Debug\net8.0\ProblemaWhile.dll
+C:\Users\kgvaz\Desktop\COMP2315\Laboratorio C#\ProblemaWhile\obj\Debug\net8.0\refint\ProblemaWhile.dll
+C:\Users\kgvaz\Desktop\COMP2315\Laboratorio C#\ProblemaWhile\obj\Debug\net8.0\ProblemaWhile.pdb
+C:\Users\kgvaz\Desktop\COMP2315\Laboratorio C#\ProblemaWhile\obj\Debug\net8.0\ProblemaWhile.genruntimeconfig.cache
+C:\Users\kgvaz\Desktop\COMP2315\Laboratorio C#\ProblemaWhile\obj\Debug\net8.0\ref\ProblemaWhile.dll
